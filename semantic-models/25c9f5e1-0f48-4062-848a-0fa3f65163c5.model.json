@@ -1,0 +1,20 @@
+{
+  "type": "http://dataspecer.com/resources/local/semantic-model",
+  "modelId": "r7mdy",
+  "modelAlias": "Default local model",
+  "baseIri": "",
+  "entities": {
+    "kqeqxc9r5eqmoife1o9": {
+      "iri": "example",
+      "name": {
+        "en": "Example"
+      },
+      "description": {},
+      "externalDocumentationUrl": null,
+      "id": "kqeqxc9r5eqmoife1o9",
+      "type": [
+        "class"
+      ]
+    }
+  }
+}

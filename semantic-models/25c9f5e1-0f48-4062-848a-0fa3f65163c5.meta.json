@@ -1,0 +1,16 @@
+{
+  "iri": "r7mdy",
+  "projectIri": "25c9f5e1-0f48-4062-848a-0fa3f65163c5",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "Default local model"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

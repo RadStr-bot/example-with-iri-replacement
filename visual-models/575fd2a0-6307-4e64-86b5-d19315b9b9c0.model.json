@@ -1,0 +1,31 @@
+{
+  "identifier": "d3e2bccb-663e-4109-89d7-cc9db570ec07",
+  "version": 1,
+  "type": "http://dataspecer.com/resources/local/visual-model",
+  "entities": [
+    {
+      "identifier": "d3e2bccb-663e-4109-89d7-cc9db570ec07-model-metadata-entity",
+      "type": [
+        "entity-model-type"
+      ],
+      "label": {
+        "en": "Anonymous model"
+      }
+    },
+    {
+      "model": "r7mdy",
+      "representedEntity": "kqeqxc9r5eqmoife1o9",
+      "position": {
+        "x": 480,
+        "y": 310,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "h3z8h"
+    }
+  ]
+}
